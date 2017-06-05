@@ -1,9 +1,9 @@
 # NewWeb
 
-##说明
+## 说明
 IDEA 的 Spring 4.x 项目初始环境
 
-##使用方式
+## 使用方式
 使用IDEA 导入 github项.
 
 将schema的数据导入数据库.
