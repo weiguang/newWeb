@@ -2,7 +2,9 @@
 
 ## 说明
 IDEA 的 Spring 4.x 项目初始环境
+
 数据库mysql
+
 数据库操作使用Spring的jdbc 模板
 
 ## 使用方式
